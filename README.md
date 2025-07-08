@@ -16,7 +16,10 @@ A classic Hangman word-guessing game implemented in Python with ASCII art visual
 
 🛠 Technologies Used
 1.Python 3
+
 2.Random module
+
 3.Lists, loops, conditionals
+
 4.Modular programming
 
